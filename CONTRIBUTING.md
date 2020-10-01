@@ -11,7 +11,7 @@
 
 # Ways to Contribute
 
-We would love you to contribute to this project. You can do so in various ways.
+There are ample number of ways you can contribute to this repository. We always welcome new contributions and expecting meaningful chnages to the repository.
 
 
 ## Contribute your Knowledge
@@ -21,13 +21,13 @@ Help others by participating in our [forum](https://forum.camunda.org/). Please 
 
 ## File Bugs or Feature Requests
 
-File bugs you found in the code or features you would like to see in the future in our [JIRA project named CAM](https://jira.camunda.com/browse/CAM).
+Report any errors you come across in the code or features you would like to see in the future in our [JIRA project named CAM](https://jira.camunda.com/browse/CAM).
 
 1. [Signup for our JIRA](https://jira.camunda.com/secure/Signup!default.jspa)
 1. [Search for similar issues](https://jira.camunda.com/issues/?jql=project%20%3D%20CAM), your bug or feature may have already been reported
 1. [Create a new ticket](https://jira.camunda.com/secure/CreateIssue!default.jspa)
    1. Select the CAM project
-   1. Be concise
+   1. Be brief and crisp.
    1. Describe the steps to reproduce the problem or the context of the feature request
    1. Specify your environment (e.g. Camunda version, Camunda modules you use, ...)
    1. Provide code. For a bug report, create a test that reproduces the problem. For feature requests, create mockup code that shows how the feature might look like. Fork our [unit test Github template](https://github.com/camunda/camunda-engine-unittest) to get started quickly.
@@ -35,7 +35,7 @@ File bugs you found in the code or features you would like to see in the future 
 
 ## Write Code
 
-You can contribute code that fixes bugs and/or implements features. Here is how it works:
+You can contribute code that fixes bugs and/or implements features. Refer below to check how it works :
 
 1. Select a ticket that you would like to implement. Tickets labelled [EasyPick](https://jira.camunda.com/issues/?jql=project%20%3D%20CAM%20AND%20status%20in%20(Open%2C%20Reopened%2C%20Ready)%20AND%20labels%20in%20(easy-pick%2C%20EasyPick)) are tickets that require little effort and can be good candidates to start. Be aware though that some of them need good knowledge of the surrounding code.
 1. Tell us in the ticket comments or in the [forum](https://forum.camunda.org/c/contributions/14) (select the *Contributions* category) that you want to work on your ticket. This is also the place where you can ask questions.
